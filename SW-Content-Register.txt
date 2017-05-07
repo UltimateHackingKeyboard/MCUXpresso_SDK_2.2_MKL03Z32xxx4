@@ -1,0 +1,42 @@
+Release Name: MCUXpresso Software Development Kit (SDK)
+Release Version: 2.2.0
+
+CMSIS Core header files    Author: ARM                                       
+                           parentversion: 4.5                                
+                           URL: http://silver.arm.com                        
+                           name: CMSIS Core header files                     
+                           Format: source code                               
+                           License: Open Source - BSD-3-Clause               
+                           Location: CMSIS/Include                           
+                           version: 4.3 (CMSIS Download 4.5)                 
+                           Description: Industry-standard header files       
+                           distributes by ARM for cortex-M cores             
+
+KSDK CMSIS Peripheral      Author: Freescale                                 
+Drivers                    version: 2.x.x                                    
+                           Format: source code                               
+                           Description: CMSIS Peripheral drivers are designed
+                           to provide hardware independent APIs which make   
+                           application reusable across a wide range of       
+                           supported microcontroller devices.                
+                           name: KSDK CMSIS Peripheral Drivers               
+                           Location: devices/<device>/cmsis_drivers          
+                           License: Open Source - Apache 2.0 & BSD-3-Clause  
+
+KSDK Peripheral Driver     Description: Peripherral drivers are designed for 
+                           the most common use cases indentified for         
+                           the underlying hardware block.                    
+                           Author: Freescale                                 
+                           Version: 2.x.x                                    
+                           License: Open Source - BSD-3-Clause               
+                           Format: source code                               
+                           Location: devices/<device_name>/drivers           
+
+SD MMC Card middleware     name: SD MMC Card middleware                      
+                           Location: middleware/sdmmc_2.1.2                  
+                           License: Open Source - BSD-3-Clause               
+                           Description: A software componnet support SD card,
+                           eMMC card.                                        
+                           Author: Freescale                                 
+                           version: 2.1.2                                    
+                           Format: source code                               
