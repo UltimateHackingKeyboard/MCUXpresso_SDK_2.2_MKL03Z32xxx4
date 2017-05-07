@@ -1,4 +1,4 @@
-# MCUXpresso_SDK_2.2_MKL03Z32xxx4
+# MCUXpresso SDK v2.2 for MKL03Z32xxx4
 
 This repository contains the [MCUXpresso SDK](http://www.nxp.com/products/software-and-tools/run-time-software/mcuxpresso-software-and-tools/mcuxpresso-software-development-kit-sdk:MCUXpresso-SDK) v2.2 (formerly Kinetis SDK) built for [MKL03Z8xxx4](http://www.nxp.com/products/microcontrollers-and-processors/arm-processors/kinetis-cortex-m-mcus/l-series-ultra-low-power-m0-plus/kinetis-kl0x-48-mhz-entry-level-ultra-low-power-microcontrollers-mcus-based-on-arm-cortex-m0-plus-core:KL0x) processors, all toolchains, Linux.
 
